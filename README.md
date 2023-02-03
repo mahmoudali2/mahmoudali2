@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali2&" alt="mahmoudali2" /></p>
 
+
+![Profile views](https://gpvc.arturio.dev/mahmoudali2) 
