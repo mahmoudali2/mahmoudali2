@@ -6,11 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/_3b7y" target="blank"><img src="https://img.shields.io/twitter/follow/_3b7y?logo=twitter&style=for-the-badge" alt="_3b7y" /></a> </p>
 
-- 🔭 I’m currently working on **IDEA detector full simulation using Geant4 and DELPHES**
+- I am interested in experimental high-energy physics and particle physics phenomenology, I use simulation and analysis tools in my research like **Root**, **Geant4**, and **DELPHES**. 
 
-- 📝 I regularly write articles on (Simulation and Analysis used in High-Energy Physics)
+- 🔭 I’m currently working on **IDEA detector full simulation**
+
+- 📝 I regularly write articles on **Simulation and Analysis used in High-Energy Physics**
 
 - 📫 How to reach me **mahmoud.althaqel@gmail.com**
+
+- ⚡ Fun fact **I smash particles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudali2&show_icons=true&locale=en" alt="mahmoudali2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali2&" alt="mahmoudali2" /></p>
+
