@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
 <h3 align="center">A MS student of Particle Physics from Egypt</h3>
 
+![Profile views](https://gpvc.arturio.dev/mahmoudali2) 
+
 <p align="left"> <a href="https://twitter.com/_3b7y" target="blank"><img src="https://img.shields.io/twitter/follow/_3b7y?logo=twitter&style=for-the-badge" alt="_3b7y" /></a> </p>
 
 - I am interested in experimental high-energy physics and particle physics phenomenology, I use simulation and analysis tools in my research like **Root**, **Geant4**, and **DELPHES**. 
@@ -32,4 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali2&" alt="mahmoudali2" /></p>
 
 
-![Profile views](https://gpvc.arturio.dev/mahmoudali2) 
