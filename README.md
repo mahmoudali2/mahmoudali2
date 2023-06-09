@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_3b7y" target="blank"><img src="https://img.shields.io/twitter/follow/_3b7y?logo=twitter&style=for-the-badge" alt="_3b7y" /></a> </p>
 
-- I am interested in experimental high-energy physics and particle physics phenomenology, I use simulation and analysis tools in my research like **Root**, **Geant4**, and **DELPHES**. 
+- I am interested in experimental high-energy physics and particle physics phenomenology, I use simulation and analysis tools in my research like **Geant4** and **Root**. 
 
 - 🔭 I’m currently working on **IDEA detector full simulation**
 
