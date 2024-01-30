@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
-<h3 align="center">A MS student of Particle Physics from Egypt</h3>
+<h3 align="center">A PhD student of Physics at the University of Bologna</h3>
 
 
 <p align="left"> <a href="https://twitter.com/_3b7y" target="blank"><img src="https://img.shields.io/twitter/follow/_3b7y?logo=twitter&style=for-the-badge" alt="_3b7y" /></a> </p>
