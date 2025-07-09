@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Al-Thakeel</h1>
 <p align="center" style="font-size: 12px; color: gray;"><em>Also known as Mahmoud Ali</em></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudali2" alt="mahmoudali2" /> </p>
+
 <h3 align="center">A PhD student of Physics at CERN & the University of Bologna</h3>
 
 - 📫 How to reach me **mahmoud.althaqel@gmail.com**
